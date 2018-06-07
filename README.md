@@ -1,1 +1,10 @@
-梁家宝傻吊
+<!DOCTYPE html>
+<html>
+<script>
+    window.location.href="http://blog.csdn.net/lmj623565791";
+</script>
+
+<body>
+</body>
+
+</html>
